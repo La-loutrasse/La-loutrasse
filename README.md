@@ -2,7 +2,7 @@
 [![Linkedin](https://img.shields.io/badge/LinkedIn-Alexis%20Laillier-blue)](https://www.linkedin.com/in/alexis-laillier/)
 
 ---------------------------------------------------------------------------------------------------------------------------------------------------------------------------------
-![mBouamama's github stats](https://github-readme-stats.vercel.app/api?username=tyki6&show_icons=true&theme=tokyonight&count_private=true)
+![Alexis github stats](https://github-readme-stats.vercel.app/api?username=La_loutrasse&show_icons=true&theme=tokyonight&count_private=true)
 
 [![GitHub Streak](http://github-readme-streak-stats.herokuapp.com?user=La-loutrasse&theme=tokyonight)](https://git.io/streak-stats)
 
