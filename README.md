@@ -18,8 +18,6 @@ Actuellement en BUT MMI à l'IUT de Troyes, je me spécialise dans le développe
 
 ![GitHub Stats](https://github-readme-stats.vercel.app/api?username=La-loutrasse&show_icons=true&theme=tokyonight&count_private=true)
 
-![GitHub Streak](http://github-readme-streak-stats.herokuapp.com?user=La-loutrasse&theme=tokyonight)
-
 ---
 
 ## Mes Langages et Technologies
@@ -35,15 +33,15 @@ Actuellement en BUT MMI à l'IUT de Troyes, je me spécialise dans le développe
   - **Next.js**
 
 - Back-end :
-  - PHP
-  - Symfony
-  - Node.js
+  - **PHP**
+  - **Symfony**
+  - **Node.js**
 
 - UI/UX & Design :
-  - Figma
-  - Photoshop
-  - Illustrator
-  - Clip Studio Paint
+  - **Figma**
+  - **Photoshop**
+  - **Illustrator**
+  - **Clip Studio Paint**
 
 ---
 
